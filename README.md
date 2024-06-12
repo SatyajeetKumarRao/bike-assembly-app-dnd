@@ -1,9 +1,85 @@
-# React + Vite
+# Bike Assembly App Using React DnD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Introduction
 
-Currently, two official plugins are available:
+The ReactJS-based bike assembly app takes you through four easy steps. First, you will see a nice picture and description of the bike. Then, you can pick the parts you want by scrolling through them and clicking on them. Next, you can drag and drop the parts to see how the bike goes together. Finally, you can see the finished bike and make any changes you want before you start assembling it yourself. This app makes it easy to understand how to put the bike together.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# assembly-app-react-dnd
+## Project Type
+
+Frontend
+
+## Deployed App
+
+Frontend: https://bike-assembly-app-dnd.vercel.app/
+
+## Directory Structure
+
+```
+├── .eslintrc.cjs
+├── .gitignore
+├── README.md
+├── index.html
+├── package-lock.json
+├── package.json
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── assets/
+│   │   ├── part1.jpg
+│   │   ├── part2.jpg
+│   │   ├── part3.jpg
+│   │   └── part4.jpg
+│   ├── components/
+│   │   ├── AssemblyArea.jsx
+│   │   ├── FinalProductDisplay.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── PartsSelection.jsx
+│   │   └── ProductOverview.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── routes/
+│   │   └── AllRoutes.jsx
+└── vite.config.js
+```
+
+## Features
+
+- Visual-rich product description page
+- Horizontal scrolling for part selection
+- Interactive checkboxes for part selection
+- Drag-and-drop functionality for assembly
+- Clear navigation across screens
+- Intuitive user interface
+- Option for review and adjustments
+- Seamless user experience
+- Engaging interaction design
+- Responsive Design: Enjoy a consistent and visually appealing experience across various devices.
+
+## Installation & Getting started
+
+Detailed instructions on how to install, configure, and get the project running.
+
+git clone https://github.com/SatyajeetKumarRao/bike-assembly-app-dnd.git
+
+## To get inside FrontEnd directory
+
+```
+npm install
+```
+
+### Usage
+
+#### To start App
+
+```
+npm run dev
+```
+
+## Snapshot of Website
+
+## Technology Stack
+
+- React.js
+- Chakra-ui
