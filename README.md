@@ -79,6 +79,14 @@ npm run dev
 
 ## Snapshot of Website
 
+![image](https://github.com/SatyajeetKumarRao/bike-assembly-app-dnd/assets/67307315/07e8708d-cb0b-44ce-857a-0562675e2623)
+
+![image](https://github.com/SatyajeetKumarRao/bike-assembly-app-dnd/assets/67307315/14b128a8-e034-46f6-ab39-5c26cc2cced0)
+
+![image](https://github.com/SatyajeetKumarRao/bike-assembly-app-dnd/assets/67307315/65a75610-b803-4416-b4fc-274a191c860b)
+
+![image](https://github.com/SatyajeetKumarRao/bike-assembly-app-dnd/assets/67307315/1a45b332-3813-4743-bac5-37de0bc89ff6)
+
 ## Technology Stack
 
 - React.js
