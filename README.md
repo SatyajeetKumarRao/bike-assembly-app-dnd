@@ -46,16 +46,17 @@ Frontend: https://bike-assembly-app-dnd.vercel.app/
 
 ## Features
 
-- Visual-rich product description page
-- Horizontal scrolling for part selection
-- Interactive checkboxes for part selection
-- Drag-and-drop functionality for assembly
-- Clear navigation across screens
-- Intuitive user interface
-- Option for review and adjustments
-- Seamless user experience
-- Engaging interaction design
-- Responsive Design: Enjoy a consistent and visually appealing experience across various devices.
+## Product Page Must-Haves:
+
+- **Visually stunning:** High-quality images & engaging design
+- **Easy exploration:** Horizontal scrolling for part selection
+- **Interactive customization:** Choose parts with checkboxes
+- **Drag-and-drop assembly:** Build it virtually!
+- **Seamless navigation:** Find everything you need easily
+- **Intuitive interface:** Simple and user-friendly
+- **Review & adjust:** Perfect your creation before purchase
+- **Engaging interactions:** Fun and informative experience
+- **Responsive design:** Looks great on any device
 
 ## Installation & Getting started
 
